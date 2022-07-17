@@ -26,7 +26,7 @@ HEADS		= $(shell find . -type f -name *.h)
 OBJS		= $(SRCS:.cpp=.o)
 DEPS		= Makefile.depends
 
-# TARGETS (build, clean, run, depends)
+# TARGETS (run, depends, clean)
 all: $(TARGET)
 	
 $(TARGET): $(OBJS)
