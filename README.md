@@ -1,4 +1,4 @@
-# Doubly Linked List implementation
+# Doubly Linked List implementation ![Build Status](https://github.com/V13kv/Doubly-Linked-List/workflows/BuildAndTest/badge.svg)
 Implementation of [`Doubly Linked List`](https://en.wikipedia.org/wiki/Doubly_linked_list) data structure with beautiful graphical dump using [`Graphviz`](https://graphviz.org/).
 Fourth task in MIPT in the first year of education.
 
